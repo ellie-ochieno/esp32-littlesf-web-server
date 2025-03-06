@@ -1,5 +1,5 @@
 {
-  "wifi_ssid": "Eunice",
-  "wifi_password": "brian001",
-  "device_name": "ESP32s2_dev_module"
+  "wifi_ssid": "wifi_name_here",
+  "wifi_password": "wifi_password_here",
+  "device_name": "ESP32_device"
 }
